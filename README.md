@@ -5,9 +5,10 @@
 ## Consignes
 
 - À partir du mockup fournis par l'équipe créa (mockup.jpg), vous devez intégrer une home page web full HTML/CSS.
-- L'attendu par rapport à la maquette est de fournir une vue mobile. Si vous avez encore le temps, vous pouvez proposez une version desktop aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
+- L'attendu par rapport à la maquette est de fournir une vue mobile. Si vous avez encore le temps, vous pouvez proposez une version desktop grâce aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
 - Votre code HTML doit être compréhensible, bien en former et utiliser des balises sémantiques. (ressources : [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element))
-- Votre CSS doit être bien structuré (on doit pouvoir en comprendre rapidement la structure) et commentée (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
+- Votre CSS doit être un fichier externe (ex. style.css), bien structuré (on doit pouvoir en comprendre rapidement la structure) et commentée (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
+- L'ensemble de votre code est valide W3C [Validation HTML markup](https://validator.w3.org/#validate_by_input) et [Validation CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ## Condition de rendu
 
@@ -33,19 +34,7 @@ Vous pouvez rendre votre projet de deux manières :
 
 | Critères                                                  | Bonus |
 | :-------------------------------------------------------- | :---: |
-| Vous avez géré les affichages Mobile + Tablette + Desktop |  +1   |
+| Vous avez géré les affichages mobile + Desktop            |  +1   |
 | Votre intégration est sur un dépot github                 |  +1   |
 | Votre intégration est consultable via un lien GithubPages |  +1   |
 | Vous optimisez votre code avec PostCSS                    |  +1   |
-
-## QCM
-
-Voici la liste des questions
-
-### Intitulé de la question
-
-- [ ] Choix 1
-- [x] Choix 2
-- [ ] Choix 3
-- [ ] Choix 4
-  > Explication en cas d'erreur
