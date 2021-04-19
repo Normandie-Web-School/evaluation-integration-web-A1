@@ -5,7 +5,7 @@
 ## Consignes
 
 - À partir du mockup fournis par l'équipe créa (mockup.jpg), vous devez intégrer une home page web full HTML/CSS.
-- Approche mobile first, c'est à dire vous commencer par la version mobile et vous l'étendez aux autres résolutions grâce aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
+- L'attendu par rapport à la maquette est de fournir une vue mobile. Si vous avez encore le temps, vous pouvez proposez une version desktop aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
 - Votre code HTML doit être compréhensible, bien en former et utiliser des balises sémantiques. (ressources : [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element))
 - Votre CSS doit être bien structuré (on doit pouvoir en comprendre rapidement la structure) et commentée (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
 
@@ -27,7 +27,7 @@ Vous pouvez rendre votre projet de deux manières :
 | Votre HTML est sémantique et bien structuré |  / 4   |
 | Votre CSS est bien structuré et documenté   |  / 4   |
 | Vos images sont optimisées                  |  / 4   |
-| Respect des délais et qualité du rendu      |  / 4   |
+| Votre code est valide W3C                   |  / 4   |
 
 ## Les points bonus
 
