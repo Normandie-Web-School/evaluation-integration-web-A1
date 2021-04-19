@@ -1,0 +1,51 @@
+# Évaluation intégration web
+
+**Le context :** Vous êtes intégrateur dans une agence web. Le pôle créa vient de vous livrer une maquette au format jpg. Vous avez 3h pour intégrer cette maquette au format HTML/CSS en priorisant la version mobile pour une présentation au client.
+
+## Consignes
+
+- À partir du mockup fournis par l'équipe créa (mockup.jpg), vous devez intégrer une home page web full HTML/CSS.
+- Approche mobile first, c'est à dire vous commencer par la version mobile et vous l'étendez aux autres résolutions grâce aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
+- Votre code HTML doit être compréhensible, bien en former et utiliser des balises sémantiques. (ressources : [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element))
+- Votre CSS doit être bien structuré (on doit pouvoir en comprendre rapidement la structure) et commentée (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
+
+## Condition de rendu
+
+Vous pouvez rendre votre projet de deux manières :
+
+- **Sur Classroom**  
+  un dossier zippé nommé "NOM-PRENOM-INTEGRATION.zip"
+
+- **Sur Github**  
+  Sur votre dépot Github un dépot nommé "evaluation-integration" (+1 point si vous optez pour cette méthode) et vous fournissez le lien vers ce dépôt dans ClassRoom.
+
+## Grille d'évaluation
+
+| Critères                                    | Barème |
+| :------------------------------------------ | :----: |
+| Respect de la maquette original             |  / 4   |
+| Votre HTML est sémantique et bien structuré |  / 4   |
+| Votre CSS est bien structuré et documenté   |  / 4   |
+| Vos images sont optimisées                  |  / 4   |
+| Respect des délais et qualité du rendu      |  / 4   |
+
+## Les points bonus
+
+| Critères                                                  | Bonus |
+| :-------------------------------------------------------- | :---: |
+| Vous avez géré les affichages Mobile + Tablette + Desktop |  +1   |
+| Votre intégration est sur un dépot github                 |  +1   |
+| Votre intégration est consultable via un lien GithubPages |  +1   |
+| Vous optimisez votre code avec PostCSS                    |  +1   |
+
+## QCM
+
+Voici la liste des questions
+
+### Intitulé de la question
+
+- [ ] Choix 1
+- [x] Choix 2
+- [ ] Choix 3
+- [ ] Choix 4
+  > Explication en cas d'erreur
