@@ -4,11 +4,12 @@
 
 ## Consignes
 
-- À partir du mockup fournis par l'équipe créa (mockup.jpg), vous devez intégrer une home page web full HTML/CSS.
-- L'attendu par rapport à la maquette est de fournir une vue mobile. Si vous avez encore le temps, vous pouvez proposez une version desktop grâce aux <a href="https://developer.mozilla.org/fr/docs/Web/CSS/@media">media-queries</a>
-- Votre code HTML doit être compréhensible, bien en former et utiliser des balises sémantiques. (ressources : [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element))
-- Votre CSS doit être un fichier externe (ex. style.css), bien structuré (on doit pouvoir en comprendre rapidement la structure) et si possible commentée (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
+- À partir des maquettes que vous trouverez dans le dossier `mockups` fournis par l'équipe créa, vous devez intégrer une home page web full HTML/CSS. Vous pouvez également [les consulter sur Figma](https://www.figma.com/proto/dIKXWAYI409XYU4hbqMrVP/Evaluation-int%C3%A9gration-A1?page-id=0%3A1&node-id=7%3A2&viewport=187%2C263%2C0.36956897377967834&scaling=min-zoom).
+- L'attendu par rapport à la maquette est de fournir une vue mobile. Si vous avez encore le temps, vous pouvez proposez une version desktop grâce aux [media-queries](https://developer.mozilla.org/fr/docs/Web/CSS/@media).
+- Votre code HTML doit être compréhensible, bien mis en forme (respect des indentations) et utiliser des balises sémantiques. (ressources : [Référence des éléments HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element))
+- Votre CSS doit être un fichier externe (ex. style.css), bien structuré, évitant les répétitions inutiles et si possible commenté (ressources : [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)).
 - L'ensemble de votre code est valide W3C [Validation HTML markup](https://validator.w3.org/#validate_by_input) et [Validation CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
+- L'utilisation d'un framework css tel que Bootstrap est naturellement proscrit.
 
 ## Ressources
 
@@ -27,7 +28,6 @@ Vous trouvrez toutes les illustrations dans le dossier `sources/images`
 ### Icones :
 Vous trouverez les icones utilisées au format SVG dans le dossier `sources/icones`
 
-Vous pouvez aussi [consulter le prototype du projet](https://www.figma.com/proto/dIKXWAYI409XYU4hbqMrVP/Evaluation-int%C3%A9gration-A1?page-id=0%3A1&node-id=7%3A2&viewport=187%2C263%2C0.36956897377967834&scaling=min-zoom) 
 
 ## Condition de rendu
 
